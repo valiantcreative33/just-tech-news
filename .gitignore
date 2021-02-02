@@ -105,3 +105,6 @@ dist
 
 # For MAC OS
 .DS_Store
+
+# Credentials Storage
+.env
